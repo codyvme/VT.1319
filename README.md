@@ -12,17 +12,24 @@
 
 ### Motion
 
--   2x HoneyBadger MGN9H Class H 400mm Linear Rails
--   3x HoneyBadger MGN9H Class H 300mm Linear Rails
--   HoneyBadger MGN12H Class H 400mm Linear Rail
+-   2x LDO 42STH48-2504AH Hight Temp Speedy Power Stepper Motors (XY)
+-   3x LDO 42STH40-1684L300E Stepper Motors (Z)
+-   2x HoneyBadger MGN9H Class H 400mm Linear Rails (Y)
+-   3x HoneyBadger MGN9H Class H 300mm Linear Rails (Z)
+-   HoneyBadger MGN12H Class H 400mm Linear Rail (X)
+-   Vitalii3D Double Shear AB Mounts
+-   Vitalii3D Live Idler XY Joints
+-   Vitalii3D Front Idlers
 -   Gates PowerGrip 2GT EPDM 9mm Belts
 -   Gates PowerGrip 2GT Pulleys
--   FUSHIBEARING F695-2RS Bearings
+-   Berserker F695-2RS Bearings
 
 ### Toolhead
 
 -   Voron Stealthburner
     -   E3D Revo Voron Hotend
+        -   0.4mm ObXidian Nozzle
+        -   0.6mm ObXidian Nozzle
     -   Galileo 2 Extruder: [https://github.com/JaredC01/Galileo2](https://github.com/JaredC01/Galileo2)
     -   ChaoticLab CNC Voron Tap v2
     -   Mellow Fly SB2040 V2 CAN Toolhead PCB: [https://mellow-3d.github.io/fly\_sb2040\_v2\_general.html](https://mellow-3d.github.io/fly_sb2040_v2_general.html)
@@ -54,7 +61,7 @@
 
 ### Mods
 
--   Inverted Electronics: [https://mods.vorondesign.com/details/pXkXHVIUbqSWqQKJISczw](https://mods.vorondesign.com/details/pXkXHVIUbqSWqQKJISczw)
+...
 
 ## Software
 
